@@ -1,6 +1,4 @@
 
-### Hi there 👋
-
 <a href="https://github.com/fequeiroz">
 <div align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fequeiroz&langs_count=10&hide=java&layout=compact&theme=monokai"/>
